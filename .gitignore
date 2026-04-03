@@ -1,0 +1,67 @@
+# Xcode and Swift build artifacts
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+*.xcworkspace/xcuserdata/
+
+# Compiled binaries
+*.o
+*.out
+*.a
+*.so
+*.dylib
+
+# Swift Package Manager
+.swiftpm/
+.build/
+*.xcframework
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build
+
+# SPM dependencies
+.dependencies/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~.tmp
+
+# Project-specific
+Audio/Raw/
+Data/Raw/
+*.csv
+*.json.bak
