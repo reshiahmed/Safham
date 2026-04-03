@@ -1,0 +1,382 @@
+{
+  "surahs": [
+    {
+      "id": 1,
+      "englishName": "Al-Fatihah",
+      "arabicName": "الفاتحة",
+      "ayahCount": 7,
+      "juzNumbers": [1]
+    },
+    {
+      "id": 67,
+      "englishName": "Al-Mulk",
+      "arabicName": "الملك",
+      "ayahCount": 30,
+      "juzNumbers": [29]
+    },
+    {
+      "id": 112,
+      "englishName": "Al-Ikhlas",
+      "arabicName": "الإخلاص",
+      "ayahCount": 4,
+      "juzNumbers": [30]
+    },
+    {
+      "id": 113,
+      "englishName": "Al-Falaq",
+      "arabicName": "الفلق",
+      "ayahCount": 5,
+      "juzNumbers": [30]
+    },
+    {
+      "id": 114,
+      "englishName": "An-Nas",
+      "arabicName": "الناس",
+      "ayahCount": 6,
+      "juzNumbers": [30]
+    }
+  ],
+  "juz": [
+    {
+      "id": 1,
+      "name": "Juz Amma Opening",
+      "surahIDs": [1]
+    },
+    {
+      "id": 29,
+      "name": "Juz 29",
+      "surahIDs": [67]
+    },
+    {
+      "id": 30,
+      "name": "Juz Amma",
+      "surahIDs": [112, 113, 114]
+    }
+  ],
+  "vocabulary": [
+    {
+      "key": "67:tabaraka",
+      "arabic": "تَبَارَكَ",
+      "transliteration": "tabaraka",
+      "meaning": "Blessed is",
+      "root": "ب-ر-ك",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 1 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:al-mulk",
+      "arabic": "الْمُلْكُ",
+      "transliteration": "al-mulku",
+      "meaning": "the dominion",
+      "root": "م-ل-ك",
+      "frequency": 2,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 1 }, { "surah": 67, "ayah": 3 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:qadir",
+      "arabic": "قَدِيرٌ",
+      "transliteration": "qadir",
+      "meaning": "all capable",
+      "root": "ق-د-ر",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 1 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:khalaqa",
+      "arabic": "خَلَقَ",
+      "transliteration": "khalaqa",
+      "meaning": "He created",
+      "root": "خ-ل-ق",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 2 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:al-mawt",
+      "arabic": "الْمَوْتَ",
+      "transliteration": "al-mawta",
+      "meaning": "death",
+      "root": "م-و-ت",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 2 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:al-hayat",
+      "arabic": "الْحَيَاةَ",
+      "transliteration": "al-hayata",
+      "meaning": "life",
+      "root": "ح-ي-ي",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 2 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:liyabluwakum",
+      "arabic": "لِيَبْلُوَكُمْ",
+      "transliteration": "liyabluwakum",
+      "meaning": "to test you",
+      "root": "ب-ل-و",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 2 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:ahsanu",
+      "arabic": "أَحْسَنُ",
+      "transliteration": "ahsanu",
+      "meaning": "best",
+      "root": "ح-س-ن",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 2 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:amalan",
+      "arabic": "عَمَلًا",
+      "transliteration": "amalan",
+      "meaning": "in deed",
+      "root": "ع-م-ل",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 2 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:alladhi",
+      "arabic": "الَّذِي",
+      "transliteration": "alladhi",
+      "meaning": "the one who",
+      "root": null,
+      "frequency": 3,
+      "isFunctionWord": true,
+      "ayahRefs": [{ "surah": 67, "ayah": 1 }, { "surah": 67, "ayah": 2 }, { "surah": 67, "ayah": 3 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:fi",
+      "arabic": "فِي",
+      "transliteration": "fi",
+      "meaning": "in",
+      "root": null,
+      "frequency": 2,
+      "isFunctionWord": true,
+      "ayahRefs": [{ "surah": 67, "ayah": 3 }, { "surah": 67, "ayah": 13 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:min",
+      "arabic": "مِن",
+      "transliteration": "min",
+      "meaning": "from",
+      "root": null,
+      "frequency": 2,
+      "isFunctionWord": true,
+      "ayahRefs": [{ "surah": 67, "ayah": 3 }, { "surah": 67, "ayah": 8 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:al-rahman",
+      "arabic": "الرَّحْمَٰنِ",
+      "transliteration": "ar-rahman",
+      "meaning": "the Most Merciful",
+      "root": "ر-ح-م",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 3 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:tafawut",
+      "arabic": "تَفَاوُتٍ",
+      "transliteration": "tafawut",
+      "meaning": "inconsistency",
+      "root": "ف-و-ت",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 3 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:al-basar",
+      "arabic": "الْبَصَرَ",
+      "transliteration": "al-basara",
+      "meaning": "the vision",
+      "root": "ب-ص-ر",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 3 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:kafaru",
+      "arabic": "كَفَرُوا",
+      "transliteration": "kafaru",
+      "meaning": "disbelieved",
+      "root": "ك-ف-ر",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 6 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "67:adhab",
+      "arabic": "عَذَابُ",
+      "transliteration": "adhabu",
+      "meaning": "punishment",
+      "root": "ع-ذ-ب",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 67, "ayah": 6 }],
+      "surahIDs": [67],
+      "juzIDs": [29]
+    },
+    {
+      "key": "112:ahad",
+      "arabic": "أَحَدٌ",
+      "transliteration": "ahad",
+      "meaning": "One",
+      "root": "و-ح-د",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 112, "ayah": 1 }],
+      "surahIDs": [112],
+      "juzIDs": [30]
+    },
+    {
+      "key": "112:samad",
+      "arabic": "الصَّمَدُ",
+      "transliteration": "as-samad",
+      "meaning": "The Absolute",
+      "root": "ص-م-د",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 112, "ayah": 2 }],
+      "surahIDs": [112],
+      "juzIDs": [30]
+    },
+    {
+      "key": "112:lam",
+      "arabic": "لَمْ",
+      "transliteration": "lam",
+      "meaning": "did not",
+      "root": null,
+      "frequency": 2,
+      "isFunctionWord": true,
+      "ayahRefs": [{ "surah": 112, "ayah": 3 }, { "surah": 112, "ayah": 4 }],
+      "surahIDs": [112],
+      "juzIDs": [30]
+    },
+    {
+      "key": "113:falaq",
+      "arabic": "الْفَلَقِ",
+      "transliteration": "al-falaq",
+      "meaning": "daybreak",
+      "root": "ف-ل-ق",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 113, "ayah": 1 }],
+      "surahIDs": [113],
+      "juzIDs": [30]
+    },
+    {
+      "key": "113:hasid",
+      "arabic": "حَاسِدٍ",
+      "transliteration": "hasid",
+      "meaning": "envier",
+      "root": "ح-س-د",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 113, "ayah": 5 }],
+      "surahIDs": [113],
+      "juzIDs": [30]
+    },
+    {
+      "key": "114:rabb",
+      "arabic": "رَبِّ",
+      "transliteration": "rabbi",
+      "meaning": "Lord",
+      "root": "ر-ب-ب",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 114, "ayah": 1 }],
+      "surahIDs": [114],
+      "juzIDs": [30]
+    },
+    {
+      "key": "114:waswas",
+      "arabic": "الْوَسْوَاسِ",
+      "transliteration": "al-waswas",
+      "meaning": "the whisperer",
+      "root": "و-س-و-س",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 114, "ayah": 4 }],
+      "surahIDs": [114],
+      "juzIDs": [30]
+    },
+    {
+      "key": "114:sudur",
+      "arabic": "صُدُورِ",
+      "transliteration": "sudur",
+      "meaning": "chests/hearts",
+      "root": "ص-د-ر",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 114, "ayah": 5 }],
+      "surahIDs": [114],
+      "juzIDs": [30]
+    },
+    {
+      "key": "114:jinnah",
+      "arabic": "الْجِنَّةِ",
+      "transliteration": "al-jinnah",
+      "meaning": "jinn",
+      "root": "ج-ن-ن",
+      "frequency": 1,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 114, "ayah": 6 }],
+      "surahIDs": [114],
+      "juzIDs": [30]
+    },
+    {
+      "key": "114:nas",
+      "arabic": "النَّاسِ",
+      "transliteration": "an-nas",
+      "meaning": "mankind",
+      "root": "أ-ن-س",
+      "frequency": 2,
+      "isFunctionWord": false,
+      "ayahRefs": [{ "surah": 114, "ayah": 1 }, { "surah": 114, "ayah": 6 }],
+      "surahIDs": [114],
+      "juzIDs": [30]
+    }
+  ]
+}

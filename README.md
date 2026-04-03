@@ -1,70 +1,73 @@
-# Safham — سأفهم — Quranic Vocabulary Builder
+# Safham - سأفهم - Quranic Vocabulary Builder
 
-> *Safham (سأفهم) — Arabic for "I will understand." A personal promise, not just an app name.*
+Safham is an offline-first iOS app that helps users memorize and understand Quranic Arabic vocabulary through:
+- Surah/Juz based content selection
+- Pre-extracted vocabulary lists
+- Spaced repetition reviews (SM-2)
+- Mastery tracking (Learning -> Familiar -> Mastered)
+- Reciter-aware word audio hooks
+- Daily reminder scheduling
 
-A native iOS app that helps Muslims understand the Arabic words they're reciting in the Quran through intelligent vocabulary extraction, spaced repetition flashcards, and audio pronunciation from world-renowned reciters.
+## What is implemented in this v1 codebase
 
-## Overview
+- Full SwiftUI app scaffold aligned to the PRD screens:
+1. Onboarding
+2. Home dashboard
+3. Content browser (Surah/Juz)
+4. Vocabulary list
+5. Flashcard review session
+6. Session summary
+7. Word detail
+8. Settings
 
-This repository contains the product specification, design documentation, and development artifacts for Safham v1.0.
+- Core domain + services:
+- `SM2Scheduler` for review intervals and mastery progression
+- `VocabularyService` for extraction/filtering/merging
+- `ReviewEngine` for due queue and session summary
+- `ReminderService` (UNUserNotificationCenter)
+- `AudioService` (AVAudioPlayer for bundled assets)
 
-## Project Structure
+- Persistence:
+- SwiftData entities for word progress and app settings
+- Repository layer for loading/saving progress/settings
 
+- Seed dataset:
+- Bundled JSON seed file at `SafhamApp/Resources/Seed/safham_seed.json`
+- Includes real sample vocabulary and references for selected surahs
+- App auto-fills missing surahs/juz to support full browser navigation (1..114, 1..30)
+
+- Unit tests:
+- SM-2 scheduling behavior
+- Vocabulary extraction + function-word filtering
+
+## Project structure
+
+```text
+Safham/
+|- SafhamApp/
+|  |- App/
+|  |- Models/
+|  |- Persistence/
+|  |- Services/
+|  |- ViewModels/
+|  |- Views/
+|  `- Resources/Seed/
+|- SafhamAppTests/
+`- project.yml
 ```
-safham/
-├── docs/
-│   └── PRD.md              # Product Requirements Document
-├── README.md               # This file
-└── .gitignore              # Git ignore rules
+
+## Build and run (XcodeGen)
+
+1. Install XcodeGen on macOS.
+2. Generate the Xcode project:
+```bash
+xcodegen generate
 ```
+3. Open `Safham.xcodeproj` in Xcode.
+4. Select the `Safham` scheme and run on iOS 16+ simulator/device.
 
-## Key Features (v1.0)
+## Notes for production readiness
 
-- **Surah/Juz Selection** — Choose what you're memorizing
-- **Vocabulary Extraction** — Automatic extraction of key words from selected content
-- **Spaced Repetition** — SM-2 algorithm for optimal learning
-- **Mastery Tracking** — Three-tier system: Learning → Familiar → Mastered
-- **Audio Pronunciation** — 9 world-renowned reciters, fully offline
-- **Progress Dashboard** — Track mastery per surah/juz
-- **Configurable Settings** — Reciter, tashkeel, transliteration, reminder times, and more
-
-## Tech Stack
-
-- **Language**: Swift 5.9+
-- **UI Framework**: SwiftUI
-- **Minimum iOS**: iOS 16
-- **Persistence**: SwiftData
-- **Audio**: AVFoundation
-- **Notifications**: UNUserNotificationCenter
-
-## Monetization
-
-**One-time purchase: $7.99** — No subscriptions, no ads, fully offline.
-
-Future IAPs include root word analysis and grammar notes (v1.1+).
-
-## Roadmap
-
-| Milestone | Timeline | Deliverable |
-|-----------|----------|------------|
-| M0 — PRD Final | Week 1 | ✅ Complete |
-| M1 — Data Layer | Week 2–3 | Quran JSON + audio, SwiftData schema |
-| M2 — Core UI | Week 4–5 | Home, browser, vocabulary screens |
-| M3 — Flashcard Engine | Week 6–7 | Review session, spaced repetition |
-| M4 — Settings + Polish | Week 8 | All settings, onboarding, notifications |
-| M5 — TestFlight | Week 9 | Beta testing |
-| M6 — App Store Launch | Week 10–11 | Public release |
-
-## Community (v2.0)
-
-Planned features for v2.0 include hifz groups, community leaderboards, shared vocabulary lists, and community memory notes via Supabase backend.
-
-## License
-
-TBD
-
-## Contact
-
-**Author**: Ahmed  
-**Status**: Draft PRD (In Development)  
-**Last Updated**: April 2026
+- Audio files are expected under `Resources/Audio/<reciter>/<word-key>.mp3` (not bundled yet).
+- Seed vocabulary is intentionally small for this initial implementation; replace with the full precomputed Quran dataset for launch.
+- Ayah-range selection UI is not yet exposed in the content browser, though the domain model and extractor support it.
