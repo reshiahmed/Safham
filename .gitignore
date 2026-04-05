@@ -61,7 +61,9 @@ Carthage/Build
 *~.tmp
 
 # Project-specific
-Audio/Raw/
-Data/Raw/
-*.csv
-*.json.bak
+63: Audio/Raw/
+64: Data/Raw/
+65: *.csv
+66: *.json.bak
+67: .claude/
+68: 

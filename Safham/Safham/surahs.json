@@ -1,0 +1,686 @@
+[
+  {
+    "number": 1,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0671\u0644\u0652\u0641\u064e\u0627\u062a\u0650\u062d\u064e\u0629\u0650",
+    "nameEnglish": "Al-Faatiha",
+    "ayahCount": 7
+  },
+  {
+    "number": 2,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u0642\u064e\u0631\u064e\u0629\u0650",
+    "nameEnglish": "Al-Baqara",
+    "ayahCount": 286
+  },
+  {
+    "number": 3,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0653\u0644\u0650 \u0639\u0650\u0645\u06e1\u0631\u064e\u0627\u0646\u064e",
+    "nameEnglish": "Aal-i-Imraan",
+    "ayahCount": 200
+  },
+  {
+    "number": 4,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u0650\u0633\u064e\u0627\u0621\u0650",
+    "nameEnglish": "An-Nisaa",
+    "ayahCount": 176
+  },
+  {
+    "number": 5,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064e\u0627\u0626\u0640\u0650\u062f\u064e\u0629\u0650",
+    "nameEnglish": "Al-Maaida",
+    "ayahCount": 120
+  },
+  {
+    "number": 6,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0646\u06e1\u0639\u064e\u0627\u0645\u0650",
+    "nameEnglish": "Al-An'aam",
+    "ayahCount": 165
+  },
+  {
+    "number": 7,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0639\u06e1\u0631\u064e\u0627\u0641\u0650",
+    "nameEnglish": "Al-A'raaf",
+    "ayahCount": 206
+  },
+  {
+    "number": 8,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0646\u0641\u064e\u0627\u0644\u0650",
+    "nameEnglish": "Al-Anfaal",
+    "ayahCount": 75
+  },
+  {
+    "number": 9,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0651\u064e\u0648\u06e1\u0628\u064e\u0629\u0650",
+    "nameEnglish": "At-Tawba",
+    "ayahCount": 129
+  },
+  {
+    "number": 10,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u064f\u0648\u0646\u064f\u0633\u064e",
+    "nameEnglish": "Yunus",
+    "ayahCount": 109
+  },
+  {
+    "number": 11,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0647\u064f\u0648\u062f\u064d",
+    "nameEnglish": "Hud",
+    "ayahCount": 123
+  },
+  {
+    "number": 12,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u064f\u0648\u0633\u064f\u0641\u064e",
+    "nameEnglish": "Yusuf",
+    "ayahCount": 111
+  },
+  {
+    "number": 13,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u0639\u06e1\u062f\u0650",
+    "nameEnglish": "Ar-Ra'd",
+    "ayahCount": 43
+  },
+  {
+    "number": 14,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0625\u0650\u0628\u06e1\u0631\u064e\u0627\u0647\u0650\u064a\u0645\u064e",
+    "nameEnglish": "Ibrahim",
+    "ayahCount": 52
+  },
+  {
+    "number": 15,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u0650\u062c\u06e1\u0631\u0650",
+    "nameEnglish": "Al-Hijr",
+    "ayahCount": 99
+  },
+  {
+    "number": 16,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u062d\u06e1\u0644\u0650",
+    "nameEnglish": "An-Nahl",
+    "ayahCount": 128
+  },
+  {
+    "number": 17,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0625\u0650\u0633\u06e1\u0631\u064e\u0627\u0621\u0650",
+    "nameEnglish": "Al-Israa",
+    "ayahCount": 111
+  },
+  {
+    "number": 18,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0643\u064e\u0647\u06e1\u0641\u0650",
+    "nameEnglish": "Al-Kahf",
+    "ayahCount": 110
+  },
+  {
+    "number": 19,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0645\u064e\u0631\u06e1\u064a\u064e\u0645\u064e",
+    "nameEnglish": "Maryam",
+    "ayahCount": 98
+  },
+  {
+    "number": 20,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0637\u0647",
+    "nameEnglish": "Taa-Haa",
+    "ayahCount": 135
+  },
+  {
+    "number": 21,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0646\u0628\u0650\u064a\u064e\u0627\u0621\u0650",
+    "nameEnglish": "Al-Anbiyaa",
+    "ayahCount": 112
+  },
+  {
+    "number": 22,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u062c\u0651\u0650",
+    "nameEnglish": "Al-Hajj",
+    "ayahCount": 78
+  },
+  {
+    "number": 23,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0624\u06e1\u0645\u0650\u0646\u064f\u0648\u0646\u064e",
+    "nameEnglish": "Al-Muminoon",
+    "ayahCount": 118
+  },
+  {
+    "number": 24,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064f\u0648\u0631\u0650",
+    "nameEnglish": "An-Noor",
+    "ayahCount": 64
+  },
+  {
+    "number": 25,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0641\u064f\u0631\u06e1\u0642\u064e\u0627\u0646\u0650",
+    "nameEnglish": "Al-Furqaan",
+    "ayahCount": 77
+  },
+  {
+    "number": 26,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064f\u0639\u064e\u0631\u064e\u0627\u0621\u0650",
+    "nameEnglish": "Ash-Shu'araa",
+    "ayahCount": 227
+  },
+  {
+    "number": 27,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0645\u06e1\u0644\u0650",
+    "nameEnglish": "An-Naml",
+    "ayahCount": 93
+  },
+  {
+    "number": 28,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u0635\u064e\u0635\u0650",
+    "nameEnglish": "Al-Qasas",
+    "ayahCount": 88
+  },
+  {
+    "number": 29,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0639\u064e\u0646\u0643\u064e\u0628\u064f\u0648\u062a\u0650",
+    "nameEnglish": "Al-Ankaboot",
+    "ayahCount": 69
+  },
+  {
+    "number": 30,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064f\u0648\u0645\u0650",
+    "nameEnglish": "Ar-Room",
+    "ayahCount": 60
+  },
+  {
+    "number": 31,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0644\u064f\u0642\u06e1\u0645\u064e\u0627\u0646\u064e",
+    "nameEnglish": "Luqman",
+    "ayahCount": 34
+  },
+  {
+    "number": 32,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0633\u0651\u064e\u062c\u06e1\u062f\u064e\u0629\u0650",
+    "nameEnglish": "As-Sajda",
+    "ayahCount": 30
+  },
+  {
+    "number": 33,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u062d\u06e1\u0632\u064e\u0627\u0628\u0650",
+    "nameEnglish": "Al-Ahzaab",
+    "ayahCount": 73
+  },
+  {
+    "number": 34,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0633\u064e\u0628\u064e\u0625\u064d",
+    "nameEnglish": "Saba",
+    "ayahCount": 54
+  },
+  {
+    "number": 35,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0641\u064e\u0627\u0637\u0650\u0631\u064d",
+    "nameEnglish": "Faatir",
+    "ayahCount": 45
+  },
+  {
+    "number": 36,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u064a\u0633\u0653",
+    "nameEnglish": "Yaseen",
+    "ayahCount": 83
+  },
+  {
+    "number": 37,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0635\u0651\u064e\u0627\u0641\u0651\u064e\u0627\u062a\u0650",
+    "nameEnglish": "As-Saaffaat",
+    "ayahCount": 182
+  },
+  {
+    "number": 38,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0635\u0653",
+    "nameEnglish": "Saad",
+    "ayahCount": 88
+  },
+  {
+    "number": 39,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0632\u0651\u064f\u0645\u064e\u0631\u0650",
+    "nameEnglish": "Az-Zumar",
+    "ayahCount": 75
+  },
+  {
+    "number": 40,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u063a\u064e\u0627\u0641\u0650\u0631\u064d",
+    "nameEnglish": "Ghafir",
+    "ayahCount": 85
+  },
+  {
+    "number": 41,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0641\u064f\u0635\u0651\u0650\u0644\u064e\u062a\u06e1",
+    "nameEnglish": "Fussilat",
+    "ayahCount": 54
+  },
+  {
+    "number": 42,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064f\u0648\u0631\u064e\u0649\u0670",
+    "nameEnglish": "Ash-Shura",
+    "ayahCount": 53
+  },
+  {
+    "number": 43,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0632\u0651\u064f\u062e\u06e1\u0631\u064f\u0641\u0650",
+    "nameEnglish": "Az-Zukhruf",
+    "ayahCount": 89
+  },
+  {
+    "number": 44,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062f\u0651\u064f\u062e\u064e\u0627\u0646\u0650",
+    "nameEnglish": "Ad-Dukhaan",
+    "ayahCount": 59
+  },
+  {
+    "number": 45,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062c\u064e\u0627\u062b\u0650\u064a\u064e\u0629\u0650",
+    "nameEnglish": "Al-Jaathiya",
+    "ayahCount": 37
+  },
+  {
+    "number": 46,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u062d\u06e1\u0642\u064e\u0627\u0641\u0650",
+    "nameEnglish": "Al-Ahqaf",
+    "ayahCount": 35
+  },
+  {
+    "number": 47,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0645\u064f\u062d\u064e\u0645\u0651\u064e\u062f\u064d",
+    "nameEnglish": "Muhammad",
+    "ayahCount": 38
+  },
+  {
+    "number": 48,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0641\u064e\u062a\u06e1\u062d\u0650",
+    "nameEnglish": "Al-Fath",
+    "ayahCount": 29
+  },
+  {
+    "number": 49,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064f\u062c\u064f\u0631\u064e\u0627\u062a\u0650",
+    "nameEnglish": "Al-Hujuraat",
+    "ayahCount": 18
+  },
+  {
+    "number": 50,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0642\u0653",
+    "nameEnglish": "Qaaf",
+    "ayahCount": 45
+  },
+  {
+    "number": 51,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0630\u0651\u064e\u0627\u0631\u0650\u064a\u064e\u0627\u062a\u0650",
+    "nameEnglish": "Adh-Dhaariyat",
+    "ayahCount": 60
+  },
+  {
+    "number": 52,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0637\u0651\u064f\u0648\u0631\u0650",
+    "nameEnglish": "At-Tur",
+    "ayahCount": 49
+  },
+  {
+    "number": 53,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u062c\u06e1\u0645\u0650",
+    "nameEnglish": "An-Najm",
+    "ayahCount": 62
+  },
+  {
+    "number": 54,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u0645\u064e\u0631\u0650",
+    "nameEnglish": "Al-Qamar",
+    "ayahCount": 55
+  },
+  {
+    "number": 55,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0631\u0651\u064e\u062d\u06e1\u0645\u064e\u0670\u0646",
+    "nameEnglish": "Ar-Rahmaan",
+    "ayahCount": 78
+  },
+  {
+    "number": 56,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0648\u064e\u0627\u0642\u0650\u0639\u064e\u0629\u0650",
+    "nameEnglish": "Al-Waaqia",
+    "ayahCount": 96
+  },
+  {
+    "number": 57,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u062f\u0650\u064a\u062f\u0650",
+    "nameEnglish": "Al-Hadid",
+    "ayahCount": 29
+  },
+  {
+    "number": 58,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u062c\u064e\u0627\u062f\u0644\u064e\u0629\u0650",
+    "nameEnglish": "Al-Mujaadila",
+    "ayahCount": 22
+  },
+  {
+    "number": 59,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u0634\u06e1\u0631\u0650",
+    "nameEnglish": "Al-Hashr",
+    "ayahCount": 24
+  },
+  {
+    "number": 60,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0645\u06e1\u062a\u064e\u062d\u0646\u064e\u0629\u0650",
+    "nameEnglish": "Al-Mumtahana",
+    "ayahCount": 13
+  },
+  {
+    "number": 61,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0635\u0651\u064e\u0641\u0651\u0650",
+    "nameEnglish": "As-Saff",
+    "ayahCount": 14
+  },
+  {
+    "number": 62,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062c\u064f\u0645\u064f\u0639\u064e\u0629\u0650",
+    "nameEnglish": "Al-Jumu'a",
+    "ayahCount": 11
+  },
+  {
+    "number": 63,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0646\u064e\u0627\u0641\u0650\u0642\u064f\u0648\u0646\u064e",
+    "nameEnglish": "Al-Munaafiqoon",
+    "ayahCount": 11
+  },
+  {
+    "number": 64,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0651\u064e\u063a\u064e\u0627\u0628\u064f\u0646\u0650",
+    "nameEnglish": "At-Taghaabun",
+    "ayahCount": 18
+  },
+  {
+    "number": 65,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0637\u0651\u064e\u0644\u064e\u0627\u0642\u0650",
+    "nameEnglish": "At-Talaaq",
+    "ayahCount": 12
+  },
+  {
+    "number": 66,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0651\u064e\u062d\u06e1\u0631\u0650\u064a\u0645\u0650",
+    "nameEnglish": "At-Tahrim",
+    "ayahCount": 12
+  },
+  {
+    "number": 67,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0644\u06e1\u0643\u0650",
+    "nameEnglish": "Al-Mulk",
+    "ayahCount": 30
+  },
+  {
+    "number": 68,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u0644\u064e\u0645\u0650",
+    "nameEnglish": "Al-Qalam",
+    "ayahCount": 52
+  },
+  {
+    "number": 69,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062d\u064e\u0627\u0642\u0651\u064e\u0629\u0650",
+    "nameEnglish": "Al-Haaqqa",
+    "ayahCount": 52
+  },
+  {
+    "number": 70,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064e\u0639\u064e\u0627\u0631\u0650\u062c\u0650",
+    "nameEnglish": "Al-Ma'aarij",
+    "ayahCount": 44
+  },
+  {
+    "number": 71,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0646\u064f\u0648\u062d\u064d",
+    "nameEnglish": "Nooh",
+    "ayahCount": 28
+  },
+  {
+    "number": 72,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062c\u0650\u0646\u0651\u0650",
+    "nameEnglish": "Al-Jinn",
+    "ayahCount": 28
+  },
+  {
+    "number": 73,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0632\u0651\u064e\u0645\u0651\u0650\u0644\u0650",
+    "nameEnglish": "Al-Muzzammil",
+    "ayahCount": 20
+  },
+  {
+    "number": 74,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u062f\u0651\u064e\u062b\u0651\u0650\u0631\u0650",
+    "nameEnglish": "Al-Muddaththir",
+    "ayahCount": 56
+  },
+  {
+    "number": 75,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u0650\u064a\u064e\u0627\u0645\u064e\u0629\u0650",
+    "nameEnglish": "Al-Qiyaama",
+    "ayahCount": 40
+  },
+  {
+    "number": 76,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0625\u0650\u0646\u0633\u064e\u0627\u0646\u0650",
+    "nameEnglish": "Al-Insaan",
+    "ayahCount": 31
+  },
+  {
+    "number": 77,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0631\u06e1\u0633\u064e\u0644\u064e\u0627\u062a\u0650",
+    "nameEnglish": "Al-Mursalaat",
+    "ayahCount": 50
+  },
+  {
+    "number": 78,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0628\u064e\u0625\u0650",
+    "nameEnglish": "An-Naba",
+    "ayahCount": 40
+  },
+  {
+    "number": 79,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0632\u0650\u0639\u064e\u0627\u062a\u0650",
+    "nameEnglish": "An-Naazi'aat",
+    "ayahCount": 46
+  },
+  {
+    "number": 80,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0639\u064e\u0628\u064e\u0633\u064e",
+    "nameEnglish": "Abasa",
+    "ayahCount": 42
+  },
+  {
+    "number": 81,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0651\u064e\u0643\u06e1\u0648\u0650\u064a\u0631\u0650",
+    "nameEnglish": "At-Takwir",
+    "ayahCount": 29
+  },
+  {
+    "number": 82,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0627\u0646\u0641\u0650\u0637\u064e\u0627\u0631\u0650",
+    "nameEnglish": "Al-Infitaar",
+    "ayahCount": 19
+  },
+  {
+    "number": 83,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064f\u0637\u064e\u0641\u0651\u0650\u0641\u0650\u064a\u0646\u064e",
+    "nameEnglish": "Al-Mutaffifin",
+    "ayahCount": 36
+  },
+  {
+    "number": 84,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0627\u0646\u0634\u0650\u0642\u064e\u0627\u0642\u0650",
+    "nameEnglish": "Al-Inshiqaaq",
+    "ayahCount": 25
+  },
+  {
+    "number": 85,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064f\u0631\u064f\u0648\u062c\u0650",
+    "nameEnglish": "Al-Burooj",
+    "ayahCount": 22
+  },
+  {
+    "number": 86,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0637\u0651\u064e\u0627\u0631\u0650\u0642\u0650",
+    "nameEnglish": "At-Taariq",
+    "ayahCount": 17
+  },
+  {
+    "number": 87,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0623\u064e\u0639\u06e1\u0644\u064e\u0649\u0670",
+    "nameEnglish": "Al-A'laa",
+    "ayahCount": 19
+  },
+  {
+    "number": 88,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u063a\u064e\u0627\u0634\u0650\u064a\u064e\u0629\u0650",
+    "nameEnglish": "Al-Ghaashiya",
+    "ayahCount": 26
+  },
+  {
+    "number": 89,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0641\u064e\u062c\u06e1\u0631\u0650",
+    "nameEnglish": "Al-Fajr",
+    "ayahCount": 30
+  },
+  {
+    "number": 90,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u0644\u064e\u062f\u0650",
+    "nameEnglish": "Al-Balad",
+    "ayahCount": 20
+  },
+  {
+    "number": 91,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064e\u0645\u06e1\u0633\u0650",
+    "nameEnglish": "Ash-Shams",
+    "ayahCount": 15
+  },
+  {
+    "number": 92,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0644\u0651\u064e\u064a\u06e1\u0644\u0650",
+    "nameEnglish": "Al-Lail",
+    "ayahCount": 21
+  },
+  {
+    "number": 93,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0636\u0651\u064f\u062d\u064e\u0649\u0670",
+    "nameEnglish": "Ad-Dhuhaa",
+    "ayahCount": 11
+  },
+  {
+    "number": 94,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0634\u0651\u064e\u0631\u06e1\u062d\u0650",
+    "nameEnglish": "Ash-Sharh",
+    "ayahCount": 8
+  },
+  {
+    "number": 95,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0651\u0650\u064a\u0646\u0650",
+    "nameEnglish": "At-Tin",
+    "ayahCount": 8
+  },
+  {
+    "number": 96,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0639\u064e\u0644\u064e\u0642\u0650",
+    "nameEnglish": "Al-Alaq",
+    "ayahCount": 19
+  },
+  {
+    "number": 97,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u062f\u06e1\u0631\u0650",
+    "nameEnglish": "Al-Qadr",
+    "ayahCount": 5
+  },
+  {
+    "number": 98,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0628\u064e\u064a\u0651\u0650\u0646\u064e\u0629\u0650",
+    "nameEnglish": "Al-Bayyina",
+    "ayahCount": 8
+  },
+  {
+    "number": 99,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0632\u0651\u064e\u0644\u06e1\u0632\u064e\u0644\u064e\u0629\u0650",
+    "nameEnglish": "Az-Zalzala",
+    "ayahCount": 8
+  },
+  {
+    "number": 100,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0639\u064e\u0627\u062f\u0650\u064a\u064e\u0627\u062a\u0650",
+    "nameEnglish": "Al-Aadiyaat",
+    "ayahCount": 11
+  },
+  {
+    "number": 101,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0642\u064e\u0627\u0631\u0650\u0639\u064e\u0629\u0650",
+    "nameEnglish": "Al-Qaari'a",
+    "ayahCount": 11
+  },
+  {
+    "number": 102,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u062a\u0651\u064e\u0643\u064e\u0627\u062b\u064f\u0631\u0650",
+    "nameEnglish": "At-Takaathur",
+    "ayahCount": 8
+  },
+  {
+    "number": 103,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0639\u064e\u0635\u06e1\u0631\u0650",
+    "nameEnglish": "Al-Asr",
+    "ayahCount": 3
+  },
+  {
+    "number": 104,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0647\u064f\u0645\u064e\u0632\u064e\u0629\u0650",
+    "nameEnglish": "Al-Humaza",
+    "ayahCount": 9
+  },
+  {
+    "number": 105,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0641\u0650\u064a\u0644\u0650",
+    "nameEnglish": "Al-Fil",
+    "ayahCount": 5
+  },
+  {
+    "number": 106,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0642\u064f\u0631\u064e\u064a\u06e1\u0634\u064d",
+    "nameEnglish": "Quraish",
+    "ayahCount": 4
+  },
+  {
+    "number": 107,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064e\u0627\u0639\u064f\u0648\u0646\u0650",
+    "nameEnglish": "Al-Maa'un",
+    "ayahCount": 7
+  },
+  {
+    "number": 108,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0643\u064e\u0648\u06e1\u062b\u064e\u0631\u0650",
+    "nameEnglish": "Al-Kawthar",
+    "ayahCount": 3
+  },
+  {
+    "number": 109,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0643\u064e\u0627\u0641\u0650\u0631\u064f\u0648\u0646\u064e",
+    "nameEnglish": "Al-Kaafiroon",
+    "ayahCount": 6
+  },
+  {
+    "number": 110,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0635\u06e1\u0631\u0650",
+    "nameEnglish": "An-Nasr",
+    "ayahCount": 3
+  },
+  {
+    "number": 111,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0645\u064e\u0633\u064e\u062f\u0650",
+    "nameEnglish": "Al-Masad",
+    "ayahCount": 5
+  },
+  {
+    "number": 112,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0625\u0650\u062e\u06e1\u0644\u064e\u0627\u0635\u0650",
+    "nameEnglish": "Al-Ikhlaas",
+    "ayahCount": 4
+  },
+  {
+    "number": 113,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0641\u064e\u0644\u064e\u0642\u0650",
+    "nameEnglish": "Al-Falaq",
+    "ayahCount": 5
+  },
+  {
+    "number": 114,
+    "nameArabic": "\u0633\u064f\u0648\u0631\u064e\u0629\u064f \u0627\u0644\u0646\u0651\u064e\u0627\u0633\u0650",
+    "nameEnglish": "An-Naas",
+    "ayahCount": 6
+  }
+]

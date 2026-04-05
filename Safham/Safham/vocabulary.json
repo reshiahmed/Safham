@@ -1,0 +1,250 @@
+[
+  {
+    "surahNumber": 1,
+    "words": [
+      { "arabic": "الْحَمْدُ", "transliteration": "al-ḥamdu", "meaning": "All praise / The praise", "root": "ح-م-د", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "رَبِّ", "transliteration": "rabbi", "meaning": "Lord of", "root": "ر-ب-ب", "frequency": 2, "ayahRefs": [2, 7], "isFunctionWord": false },
+      { "arabic": "الْعَالَمِينَ", "transliteration": "al-ʿālamīn", "meaning": "All the worlds / All creation", "root": "ع-ل-م", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الرَّحْمَٰنِ", "transliteration": "ar-raḥmān", "meaning": "The Most Gracious", "root": "ر-ح-م", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "الرَّحِيمِ", "transliteration": "ar-raḥīm", "meaning": "The Most Merciful", "root": "ر-ح-م", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "مَالِكِ", "transliteration": "māliki", "meaning": "Master / King of", "root": "م-ل-ك", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "يَوْمِ", "transliteration": "yawmi", "meaning": "Day of", "root": "ي-و-م", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "الدِّينِ", "transliteration": "ad-dīn", "meaning": "The Judgment / The Religion", "root": "د-ي-ن", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "إِيَّاكَ", "transliteration": "iyyāka", "meaning": "You alone", "root": "ا-ي-ا", "frequency": 2, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "نَعْبُدُ", "transliteration": "naʿbudu", "meaning": "We worship", "root": "ع-ب-د", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "نَسْتَعِينُ", "transliteration": "nastaʿīn", "meaning": "We seek help", "root": "ع-و-ن", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "اهْدِنَا", "transliteration": "ihdinā", "meaning": "Guide us", "root": "هـ-د-ي", "frequency": 1, "ayahRefs": [6], "isFunctionWord": false },
+      { "arabic": "الصِّرَاطَ", "transliteration": "aṣ-ṣirāṭ", "meaning": "The path / The way", "root": "ص-ر-ط", "frequency": 2, "ayahRefs": [6, 7], "isFunctionWord": false },
+      { "arabic": "الْمُسْتَقِيمَ", "transliteration": "al-mustaqīm", "meaning": "The straight / Upright", "root": "ق-و-م", "frequency": 1, "ayahRefs": [6], "isFunctionWord": false },
+      { "arabic": "أَنْعَمْتَ", "transliteration": "anʿamta", "meaning": "You have blessed / Bestowed favour on", "root": "ن-ع-م", "frequency": 1, "ayahRefs": [7], "isFunctionWord": false },
+      { "arabic": "الْمَغْضُوبِ", "transliteration": "al-maghḍūb", "meaning": "Those who have incurred anger", "root": "غ-ض-ب", "frequency": 1, "ayahRefs": [7], "isFunctionWord": false },
+      { "arabic": "الضَّالِّينَ", "transliteration": "aḍ-ḍāllīn", "meaning": "Those who are astray", "root": "ض-ل-ل", "frequency": 1, "ayahRefs": [7], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 67,
+    "words": [
+      { "arabic": "الْمُلْكُ", "transliteration": "al-mulk", "meaning": "The dominion / Sovereignty", "root": "م-ل-ك", "frequency": 2, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "بِيَدِهِ", "transliteration": "bi-yadihi", "meaning": "In whose hand", "root": "ي-د-ي", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "قَدِيرٌ", "transliteration": "qadīr", "meaning": "All-Powerful / Capable", "root": "ق-د-ر", "frequency": 2, "ayahRefs": [1, 2], "isFunctionWord": false },
+      { "arabic": "الْمَوْتَ", "transliteration": "al-mawt", "meaning": "Death", "root": "م-و-ت", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الْحَيَاةَ", "transliteration": "al-ḥayāt", "meaning": "Life", "root": "ح-ي-و", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "أَحْسَنُ", "transliteration": "aḥsan", "meaning": "Best / Most excellent", "root": "ح-س-ن", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "عَمَلًا", "transliteration": "ʿamalan", "meaning": "In deed / In conduct", "root": "ع-م-ل", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الْعَزِيزُ", "transliteration": "al-ʿazīz", "meaning": "The Mighty / Exalted in Might", "root": "ع-ز-ز", "frequency": 3, "ayahRefs": [2, 4], "isFunctionWord": false },
+      { "arabic": "الْغَفُورُ", "transliteration": "al-ghafūr", "meaning": "The Forgiving / Oft-Forgiving", "root": "غ-ف-ر", "frequency": 2, "ayahRefs": [2, 4], "isFunctionWord": false },
+      { "arabic": "طِبَاقًا", "transliteration": "ṭibāqan", "meaning": "Layer upon layer", "root": "ط-ب-ق", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "تَفَاوُتٍ", "transliteration": "tafāwut", "meaning": "Any fault / Inconsistency", "root": "ف-و-ت", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "خَاسِئًا", "transliteration": "khāsiʾan", "meaning": "Humbled / Worn out", "root": "خ-س-أ", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "حَسِيرٌ", "transliteration": "ḥasīr", "meaning": "Exhausted / Weary", "root": "ح-س-ر", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "الطَّيْرَ", "transliteration": "aṭ-ṭayr", "meaning": "The birds", "root": "ط-ي-ر", "frequency": 1, "ayahRefs": [19], "isFunctionWord": false },
+      { "arabic": "يَرْزُقُكُمْ", "transliteration": "yarzuqukum", "meaning": "Will provide / Sustain you", "root": "ر-ز-ق", "frequency": 1, "ayahRefs": [21], "isFunctionWord": false },
+      { "arabic": "مَاءً", "transliteration": "māʾan", "meaning": "Water", "root": "م-و-ه", "frequency": 1, "ayahRefs": [30], "isFunctionWord": false },
+      { "arabic": "غَوْرًا", "transliteration": "ghawran", "meaning": "Sunken underground / Absorbed", "root": "غ-و-ر", "frequency": 1, "ayahRefs": [30], "isFunctionWord": false },
+      { "arabic": "مَعِينٍ", "transliteration": "maʿīn", "meaning": "Flowing / Gushing water", "root": "م-ع-ن", "frequency": 1, "ayahRefs": [30], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 96,
+    "words": [
+      { "arabic": "اقْرَأْ", "transliteration": "iqraʾ", "meaning": "Read / Recite", "root": "ق-ر-أ", "frequency": 2, "ayahRefs": [1, 3], "isFunctionWord": false },
+      { "arabic": "بِاسْمِ", "transliteration": "bi-smi", "meaning": "In the name of", "root": "س-م-و", "frequency": 1, "ayahRefs": [1], "isFunctionWord": true },
+      { "arabic": "رَبِّكَ", "transliteration": "rabbika", "meaning": "Your Lord", "root": "ر-ب-ب", "frequency": 2, "ayahRefs": [1, 3], "isFunctionWord": false },
+      { "arabic": "خَلَقَ", "transliteration": "khalaqa", "meaning": "Who created", "root": "خ-ل-ق", "frequency": 2, "ayahRefs": [1, 2], "isFunctionWord": false },
+      { "arabic": "الإِنسَانَ", "transliteration": "al-insān", "meaning": "Mankind / The human", "root": "أ-ن-س", "frequency": 2, "ayahRefs": [2, 5], "isFunctionWord": false },
+      { "arabic": "عَلَقٍ", "transliteration": "ʿalaq", "meaning": "A clinging clot / Embryo", "root": "ع-ل-ق", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الأَكْرَمُ", "transliteration": "al-akram", "meaning": "The Most Generous", "root": "ك-ر-م", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "عَلَّمَ", "transliteration": "ʿallama", "meaning": "Taught / Who taught", "root": "ع-ل-م", "frequency": 2, "ayahRefs": [4, 5], "isFunctionWord": false },
+      { "arabic": "بِالْقَلَمِ", "transliteration": "bil-qalam", "meaning": "By the pen", "root": "ق-ل-م", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "يَعْلَمْ", "transliteration": "yaʿlam", "meaning": "He knew not / Does not know", "root": "ع-ل-م", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "لَيَطْغَى", "transliteration": "la-yaṭghā", "meaning": "Indeed he transgresses", "root": "ط-غ-و", "frequency": 1, "ayahRefs": [6], "isFunctionWord": false },
+      { "arabic": "اسْتَغْنَى", "transliteration": "istaghna", "meaning": "He sees himself self-sufficient", "root": "غ-ن-ي", "frequency": 1, "ayahRefs": [7], "isFunctionWord": false },
+      { "arabic": "الرُّجْعَى", "transliteration": "ar-rujʿā", "meaning": "The return", "root": "ر-ج-ع", "frequency": 1, "ayahRefs": [8], "isFunctionWord": false },
+      { "arabic": "يَنْهَى", "transliteration": "yanhā", "meaning": "Forbids / Prevents", "root": "ن-هـ-ي", "frequency": 2, "ayahRefs": [9, 10], "isFunctionWord": false },
+      { "arabic": "اقْتَرَبَ", "transliteration": "iqtaraba", "meaning": "Draw near / Prostrate", "root": "ق-ر-ب", "frequency": 1, "ayahRefs": [19], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 97,
+    "words": [
+      { "arabic": "الْقَدْرِ", "transliteration": "al-qadr", "meaning": "The decree / The power / The night of destiny", "root": "ق-د-ر", "frequency": 3, "ayahRefs": [1, 2, 3], "isFunctionWord": false },
+      { "arabic": "أَنزَلْنَاهُ", "transliteration": "anzalnāhu", "meaning": "We sent it down", "root": "ن-ز-ل", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "أَدْرَاكَ", "transliteration": "adrāka", "meaning": "Made you know / Informed you", "root": "د-ر-ي", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "خَيْرٌ", "transliteration": "khayr", "meaning": "Better / Good", "root": "خ-ي-ر", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "الْمَلَائِكَةُ", "transliteration": "al-malāʾika", "meaning": "The angels", "root": "م-ل-ك", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "الرُّوحُ", "transliteration": "ar-rūḥ", "meaning": "The Spirit / Jibreel", "root": "ر-و-ح", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "سَلَامٌ", "transliteration": "salām", "meaning": "Peace", "root": "س-ل-م", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "مَطْلَعِ", "transliteration": "maṭlaʿ", "meaning": "The rising / Until the break of dawn", "root": "ط-ل-ع", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 103,
+    "words": [
+      { "arabic": "وَالْعَصْرِ", "transliteration": "wal-ʿaṣr", "meaning": "By time / The declining day", "root": "ع-ص-ر", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "الإِنسَانَ", "transliteration": "al-insān", "meaning": "Mankind / Man", "root": "أ-ن-س", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "لَفِي", "transliteration": "la-fī", "meaning": "Indeed in", "root": null, "frequency": 1, "ayahRefs": [2], "isFunctionWord": true },
+      { "arabic": "خُسْرٍ", "transliteration": "khusr", "meaning": "Loss / Ruin", "root": "خ-س-ر", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "آمَنُوا", "transliteration": "āmanū", "meaning": "Believed / Have faith", "root": "أ-م-ن", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "وَعَمِلُوا", "transliteration": "wa-ʿamilū", "meaning": "And did / And performed", "root": "ع-م-ل", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "الصَّالِحَاتِ", "transliteration": "aṣ-ṣāliḥāt", "meaning": "Righteous deeds", "root": "ص-ل-ح", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "تَوَاصَوْا", "transliteration": "tawāṣaw", "meaning": "Advised each other / Exhorted one another", "root": "و-ص-ي", "frequency": 2, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "بِالْحَقِّ", "transliteration": "bil-ḥaqq", "meaning": "With truth / To truth", "root": "ح-ق-ق", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "بِالصَّبْرِ", "transliteration": "biṣ-ṣabr", "meaning": "With patience / To patience", "root": "ص-ب-ر", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 106,
+    "words": [
+      { "arabic": "لِإِيلَافِ", "transliteration": "li-īlāfi", "meaning": "For the accustoming / For the covenants of", "root": "أ-ل-ف", "frequency": 2, "ayahRefs": [1, 2], "isFunctionWord": false },
+      { "arabic": "قُرَيْشٍ", "transliteration": "quraysh", "meaning": "Quraysh (tribe)", "root": "ق-ر-ش", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "رِحْلَةَ", "transliteration": "riḥlat", "meaning": "Journey / Trip", "root": "ر-ح-ل", "frequency": 2, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الشِّتَاءِ", "transliteration": "ash-shitāʾ", "meaning": "The winter", "root": "ش-ت-و", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الصَّيْفِ", "transliteration": "aṣ-ṣayf", "meaning": "The summer", "root": "ص-ي-ف", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "فَلْيَعْبُدُوا", "transliteration": "fal-yaʿbudū", "meaning": "So let them worship", "root": "ع-ب-د", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "الْبَيْتِ", "transliteration": "al-bayt", "meaning": "This House (the Kaaba)", "root": "ب-ي-ت", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "أَطْعَمَهُم", "transliteration": "aṭʿamahum", "meaning": "Who has fed them", "root": "ط-ع-م", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "خَوْفٍ", "transliteration": "khawf", "meaning": "Fear", "root": "خ-و-ف", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 107,
+    "words": [
+      { "arabic": "يُكَذِّبُ", "transliteration": "yukadhdhibu", "meaning": "Denies / Rejects as false", "root": "ك-ذ-ب", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "بِالدِّينِ", "transliteration": "bid-dīn", "meaning": "The Judgment / The Religion", "root": "د-ي-ن", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "يَدُعُّ", "transliteration": "yadull", "meaning": "Drives away / Repels", "root": "د-ع-ع", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الْيَتِيمَ", "transliteration": "al-yatīm", "meaning": "The orphan", "root": "ي-ت-م", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "يَحُضُّ", "transliteration": "yaḥuḍḍ", "meaning": "Urges / Encourages", "root": "ح-ض-ض", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "طَعَامِ", "transliteration": "ṭaʿām", "meaning": "Food / Feeding", "root": "ط-ع-م", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "الْمِسْكِينِ", "transliteration": "al-miskīn", "meaning": "The poor / The needy", "root": "س-ك-ن", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "سَاهُونَ", "transliteration": "sāhūn", "meaning": "Heedless / Neglectful", "root": "س-هـ-و", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "يُرَاؤُونَ", "transliteration": "yurāʾūn", "meaning": "Show off / Perform for show", "root": "ر-أ-ي", "frequency": 1, "ayahRefs": [6], "isFunctionWord": false },
+      { "arabic": "الْمَاعُونَ", "transliteration": "al-māʿūn", "meaning": "Small kindnesses / Assistance / Alms", "root": "م-ع-ن", "frequency": 1, "ayahRefs": [7], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 108,
+    "words": [
+      { "arabic": "الْكَوْثَرَ", "transliteration": "al-kawthar", "meaning": "Al-Kawthar (abundance / river in Paradise)", "root": "ك-ث-ر", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "أَعْطَيْنَاكَ", "transliteration": "aʿṭaynāka", "meaning": "We have given you", "root": "ع-ط-و", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "فَصَلِّ", "transliteration": "fa-ṣalli", "meaning": "So pray", "root": "ص-ل-و", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "وَانْحَرْ", "transliteration": "wan-ḥar", "meaning": "And sacrifice", "root": "ن-ح-ر", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "شَانِئَكَ", "transliteration": "shāniʾaka", "meaning": "Your enemy / Who hates you", "root": "ش-ن-أ", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "الأَبْتَرُ", "transliteration": "al-abtar", "meaning": "Severed / Without offspring / Cut off", "root": "ب-ت-ر", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 109,
+    "words": [
+      { "arabic": "الْكَافِرُونَ", "transliteration": "al-kāfirūn", "meaning": "The disbelievers", "root": "ك-ف-ر", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "أَعْبُدُ", "transliteration": "aʿbudu", "meaning": "I worship", "root": "ع-ب-د", "frequency": 2, "ayahRefs": [2, 5], "isFunctionWord": false },
+      { "arabic": "تَعْبُدُونَ", "transliteration": "taʿbudūn", "meaning": "You worship", "root": "ع-ب-د", "frequency": 2, "ayahRefs": [2, 4], "isFunctionWord": false },
+      { "arabic": "عَابِدٌ", "transliteration": "ʿābid", "meaning": "A worshipper", "root": "ع-ب-د", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "عَبَدتُّمْ", "transliteration": "ʿabadtum", "meaning": "You have worshipped", "root": "ع-ب-د", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "دِينُكُمْ", "transliteration": "dīnukum", "meaning": "Your religion / Your way", "root": "د-ي-ن", "frequency": 1, "ayahRefs": [6], "isFunctionWord": false },
+      { "arabic": "دِينِ", "transliteration": "dīni", "meaning": "My religion / My way", "root": "د-ي-ن", "frequency": 1, "ayahRefs": [6], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 110,
+    "words": [
+      { "arabic": "نَصْرُ", "transliteration": "naṣr", "meaning": "The victory / Help of", "root": "ن-ص-ر", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "الْفَتْحُ", "transliteration": "al-fatḥ", "meaning": "The conquest / The opening", "root": "ف-ت-ح", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "أَفْوَاجًا", "transliteration": "afwājan", "meaning": "In multitudes / In crowds", "root": "ف-و-ج", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "سَبِّحْ", "transliteration": "sabbiḥ", "meaning": "Glorify / Exalt", "root": "س-ب-ح", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "بِحَمْدِ", "transliteration": "bi-ḥamdi", "meaning": "With the praise of", "root": "ح-م-د", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "وَاسْتَغْفِرْهُ", "transliteration": "was-taghfirhu", "meaning": "And ask His forgiveness", "root": "غ-ف-ر", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "تَوَّابًا", "transliteration": "tawwāban", "meaning": "Accepting of repentance / Oft-returning", "root": "ت-و-ب", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 111,
+    "words": [
+      { "arabic": "تَبَّتْ", "transliteration": "tabbat", "meaning": "May it perish / Are ruined", "root": "ت-ب-ب", "frequency": 2, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "يَدَا", "transliteration": "yadā", "meaning": "Hands of", "root": "ي-د-ي", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "أَبِي لَهَبٍ", "transliteration": "abī lahab", "meaning": "Abu Lahab (father of flame)", "root": "ل-هـ-ب", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "أَغْنَى", "transliteration": "aghnā", "meaning": "Avail / Benefit", "root": "غ-ن-ي", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "مَالُهُ", "transliteration": "māluhu", "meaning": "His wealth / His property", "root": "م-و-ل", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "سَيَصْلَى", "transliteration": "sa-yaṣlā", "meaning": "He will burn / Enter", "root": "ص-ل-و", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "ذَاتَ لَهَبٍ", "transliteration": "dhāta lahab", "meaning": "A fire of blazing flame", "root": "ل-هـ-ب", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "امْرَأَتُهُ", "transliteration": "imraʾatuhu", "meaning": "His wife", "root": "م-ر-أ", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "حَمَّالَةَ", "transliteration": "ḥammālat", "meaning": "Carrier of / The carrier", "root": "ح-م-ل", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "الْحَطَبِ", "transliteration": "al-ḥaṭab", "meaning": "Firewood", "root": "ح-ط-ب", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "جِيدِهَا", "transliteration": "jīdihā", "meaning": "Her neck", "root": "ج-و-د", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "مَسَدٍ", "transliteration": "masad", "meaning": "Palm fibre / Twisted rope", "root": "م-س-د", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 112,
+    "words": [
+      { "arabic": "قُلْ", "transliteration": "qul", "meaning": "Say", "root": "ق-و-ل", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "هُوَ", "transliteration": "huwa", "meaning": "He / He is", "root": null, "frequency": 1, "ayahRefs": [1], "isFunctionWord": true },
+      { "arabic": "اللَّهُ", "transliteration": "allāh", "meaning": "Allah / God", "root": "أ-ل-هـ", "frequency": 2, "ayahRefs": [1, 2], "isFunctionWord": false },
+      { "arabic": "أَحَدٌ", "transliteration": "aḥad", "meaning": "One / Unique", "root": "و-ح-د", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "الصَّمَدُ", "transliteration": "aṣ-ṣamad", "meaning": "The Eternal Refuge / The Self-Sufficient", "root": "ص-م-د", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "يَلِدْ", "transliteration": "yalid", "meaning": "He begets / Has fathered", "root": "و-ل-د", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "يُولَدْ", "transliteration": "yūlad", "meaning": "Was begotten / Was born", "root": "و-ل-د", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "يَكُن", "transliteration": "yakun", "meaning": "There is / He is", "root": "ك-و-ن", "frequency": 1, "ayahRefs": [4], "isFunctionWord": true },
+      { "arabic": "كُفُوًا", "transliteration": "kufuwan", "meaning": "Equal / Comparable / Equivalent", "root": "ك-ف-أ", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 113,
+    "words": [
+      { "arabic": "أَعُوذُ", "transliteration": "aʿūdhu", "meaning": "I seek refuge", "root": "ع-و-ذ", "frequency": 2, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "بِرَبِّ", "transliteration": "bi-rabb", "meaning": "With the Lord of", "root": "ر-ب-ب", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "الْفَلَقِ", "transliteration": "al-falaq", "meaning": "The daybreak / The dawn", "root": "ف-ل-ق", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "شَرِّ", "transliteration": "sharr", "meaning": "The evil of", "root": "ش-ر-ر", "frequency": 4, "ayahRefs": [2, 3, 4, 5], "isFunctionWord": false },
+      { "arabic": "مَا خَلَقَ", "transliteration": "mā khalaqa", "meaning": "What He has created", "root": "خ-ل-ق", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "غَاسِقٍ", "transliteration": "ghāsiq", "meaning": "Darkness / Night as it deepens", "root": "غ-س-ق", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "وَقَبَ", "transliteration": "waqab", "meaning": "As it settles / Spreads", "root": "و-ق-ب", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "النَّفَّاثَاتِ", "transliteration": "an-naffāthāt", "meaning": "Those who blow on knots", "root": "ن-ف-ث", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "الْعُقَدِ", "transliteration": "al-ʿuqad", "meaning": "The knots", "root": "ع-ق-د", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "حَاسِدٍ", "transliteration": "ḥāsid", "meaning": "An envier / One who envies", "root": "ح-س-د", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "حَسَدَ", "transliteration": "ḥasad", "meaning": "When he envies", "root": "ح-س-د", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 114,
+    "words": [
+      { "arabic": "النَّاسِ", "transliteration": "an-nās", "meaning": "Mankind / People", "root": "ن-و-س", "frequency": 5, "ayahRefs": [1, 2, 3, 5, 6], "isFunctionWord": false },
+      { "arabic": "مَلِكِ", "transliteration": "maliki", "meaning": "The King / Sovereign of", "root": "م-ل-ك", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "إِلَٰهِ", "transliteration": "ilāhi", "meaning": "The God of", "root": "أ-ل-هـ", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "الْوَسْوَاسِ", "transliteration": "al-waswās", "meaning": "The whisperer / Evil whispering", "root": "و-س-و-س", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "الْخَنَّاسِ", "transliteration": "al-khannās", "meaning": "Who retreats / The one who slinks away", "root": "خ-ن-س", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "يُوَسْوِسُ", "transliteration": "yuwaswisu", "meaning": "Who whispers", "root": "و-س-و-س", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "صُدُورِ", "transliteration": "ṣudūr", "meaning": "The hearts / Chests", "root": "ص-د-ر", "frequency": 1, "ayahRefs": [5], "isFunctionWord": false },
+      { "arabic": "الْجِنَّةِ", "transliteration": "al-jinna", "meaning": "The jinn", "root": "ج-ن-ن", "frequency": 1, "ayahRefs": [6], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 36,
+    "words": [
+      { "arabic": "يس", "transliteration": "yā-sīn", "meaning": "Ya Sin (disjointed letters)", "root": null, "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "الْحَكِيمِ", "transliteration": "al-ḥakīm", "meaning": "Full of wisdom / The Wise", "root": "ح-ك-م", "frequency": 2, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الْمُرْسَلِينَ", "transliteration": "al-mursalīn", "meaning": "The messengers / Those sent", "root": "ر-س-ل", "frequency": 2, "ayahRefs": [3, 14], "isFunctionWord": false },
+      { "arabic": "صِرَاطٍ", "transliteration": "ṣirāṭ", "meaning": "Path / Way", "root": "ص-ر-ط", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "مُسْتَقِيمٍ", "transliteration": "mustaqīm", "meaning": "Straight / Upright", "root": "ق-و-م", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "تُنذِرَ", "transliteration": "tundhira", "meaning": "You may warn", "root": "ن-ذ-ر", "frequency": 1, "ayahRefs": [6], "isFunctionWord": false },
+      { "arabic": "الآيَاتُ", "transliteration": "al-āyāt", "meaning": "The signs / Verses", "root": "أ-ي-ي", "frequency": 3, "ayahRefs": [46, 73], "isFunctionWord": false },
+      { "arabic": "سُبْحَانَ", "transliteration": "subḥāna", "meaning": "Glory be to / Exalted is", "root": "س-ب-ح", "frequency": 2, "ayahRefs": [36, 83], "isFunctionWord": false },
+      { "arabic": "الأَزْوَاجَ", "transliteration": "al-azwāj", "meaning": "All pairs / Mates", "root": "ز-و-ج", "frequency": 1, "ayahRefs": [36], "isFunctionWord": false },
+      { "arabic": "يُحْيِي", "transliteration": "yuḥyī", "meaning": "Gives life", "root": "ح-ي-و", "frequency": 1, "ayahRefs": [78], "isFunctionWord": false },
+      { "arabic": "يُمِيتُ", "transliteration": "yumītu", "meaning": "Gives death", "root": "م-و-ت", "frequency": 1, "ayahRefs": [78], "isFunctionWord": false },
+      { "arabic": "الْعَظِيمُ", "transliteration": "al-ʿaẓīm", "meaning": "The Magnificent / The Great", "root": "ع-ظ-م", "frequency": 1, "ayahRefs": [83], "isFunctionWord": false }
+    ]
+  },
+  {
+    "surahNumber": 55,
+    "words": [
+      { "arabic": "الرَّحْمَٰنُ", "transliteration": "ar-raḥmān", "meaning": "The Most Gracious", "root": "ر-ح-م", "frequency": 1, "ayahRefs": [1], "isFunctionWord": false },
+      { "arabic": "عَلَّمَ", "transliteration": "ʿallama", "meaning": "Taught / Has taught", "root": "ع-ل-م", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الْقُرْآنَ", "transliteration": "al-qurʾān", "meaning": "The Quran", "root": "ق-ر-أ", "frequency": 1, "ayahRefs": [2], "isFunctionWord": false },
+      { "arabic": "الإِنسَانَ", "transliteration": "al-insān", "meaning": "Mankind", "root": "أ-ن-س", "frequency": 1, "ayahRefs": [3], "isFunctionWord": false },
+      { "arabic": "الْبَيَانَ", "transliteration": "al-bayān", "meaning": "Speech / Eloquence / Expression", "root": "ب-ي-ن", "frequency": 1, "ayahRefs": [4], "isFunctionWord": false },
+      { "arabic": "تُكَذِّبَانِ", "transliteration": "tukadhdhibān", "meaning": "You both deny / Which of the favours will you deny?", "root": "ك-ذ-ب", "frequency": 31, "ayahRefs": [13], "isFunctionWord": false },
+      { "arabic": "رَبِّكُمَا", "transliteration": "rabbikumā", "meaning": "Your Lord's (for both of you)", "root": "ر-ب-ب", "frequency": 1, "ayahRefs": [13], "isFunctionWord": false },
+      { "arabic": "الْمِيزَانَ", "transliteration": "al-mīzān", "meaning": "The balance / The scale", "root": "و-ز-ن", "frequency": 2, "ayahRefs": [7, 9], "isFunctionWord": false },
+      { "arabic": "الْجَنَّتَانِ", "transliteration": "al-jannatan", "meaning": "The two gardens", "root": "ج-ن-ن", "frequency": 1, "ayahRefs": [46], "isFunctionWord": false }
+    ]
+  }
+]
